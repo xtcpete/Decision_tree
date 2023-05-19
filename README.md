@@ -1,2 +1,2 @@
 # Decision_tree
- Decision tree implementation according to information gain
+An implementation of decision tree
